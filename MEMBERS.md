@@ -3,3 +3,4 @@
 * Gwen Shapira (Nile)
 * Erik Nordstrom (Timescale)
 * Eric Ridge
+* Chris Travers
