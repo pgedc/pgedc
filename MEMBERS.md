@@ -15,3 +15,4 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Tudor Golubenco (Xata)
 * Abigale Kim
 * Mehmet Emin Karakaş
+* Philippe Noël (ParadeDB)
