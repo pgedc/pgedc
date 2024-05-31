@@ -23,4 +23,5 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Steve Chavez (Supabase)
 * Christophe Pettus (PGX)
 * Pierre Ducroquet
+* Fabrízio de Royes Mello (Timescale / Timbira)
 
