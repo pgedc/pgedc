@@ -19,4 +19,4 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Muhammad Usama (Percona)
 * Philippe Noël (ParadeDB)
 * Marco Slot (Crunchy Data)
-
+* Steve Chavez (Supabase)
