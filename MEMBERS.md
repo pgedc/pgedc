@@ -2,3 +2,4 @@
 * Mats Kindahl (Timescale)
 * Gwen Shapira (Nile)
 * Erik Nordstrom (Timescale)
+* Eric Ridge
