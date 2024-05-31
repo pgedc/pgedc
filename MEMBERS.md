@@ -7,3 +7,5 @@
 * Tudor Golubenco (Xata)
 * Abigale Kim
 * Mehmet Emin Karakaş
+* Artem Gavrilov (Percona)
+* Muhammad Usama (Percona)
