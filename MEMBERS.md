@@ -4,4 +4,5 @@
 * Erik Nordstrom (Timescale)
 * Eric Ridge
 * Chris Travers
+* Tudor Golubenco (Xata)
 * Abigale Kim
