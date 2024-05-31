@@ -15,4 +15,7 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Tudor Golubenco (Xata)
 * Abigale Kim
 * Mehmet Emin Karakaş
+* Artem Gavrilov (Percona)
+* Muhammad Usama (Percona)
 * Philippe Noël (ParadeDB)
+
