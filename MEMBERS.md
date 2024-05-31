@@ -18,6 +18,8 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Artem Gavrilov (Percona)
 * Muhammad Usama (Percona)
 * Philippe Noël (ParadeDB)
+* Chapman Flack
 * Marco Slot (Crunchy Data)
 * Steve Chavez (Supabase)
 * Christophe Pettus (PGX)
+
