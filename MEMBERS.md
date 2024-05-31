@@ -4,6 +4,8 @@ Membership is open to all Postgres extension developers and those interested in 
 
 If you'd like to join, please send a PR adding yourself to the list below.
 
+---
+
 * Yurii Rashkovskii (Omnigres)
 * Mats Kindahl (Timescale)
 * Gwen Shapira (Nile)
