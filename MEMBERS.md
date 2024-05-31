@@ -17,3 +17,5 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Mehmet Emin Karakaş
 * Artem Gavrilov (Percona)
 * Muhammad Usama (Percona)
+* Philippe Noël (ParadeDB)
+
