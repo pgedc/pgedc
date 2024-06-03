@@ -27,3 +27,4 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Adam Hendel (Tembo)
 * Hannu Krosing (Google)
 * Florents Tselai
+* Jan Kristof Nidzwetzki (Nile)
