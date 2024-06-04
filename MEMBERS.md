@@ -29,3 +29,4 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Florents Tselai
 * Jan Kristof Nidzwetzki (Nile)
 * Abhishek Chanda (Cloudflare)
+* Paul Jungwirth (Illuminated Computing)
