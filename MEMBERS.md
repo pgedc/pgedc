@@ -30,3 +30,4 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Jan Kristof Nidzwetzki (Nile)
 * Abhishek Chanda (Cloudflare)
 * Paul Jungwirth (Illuminated Computing)
+* Andreas Scherbaum
