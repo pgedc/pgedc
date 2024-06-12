@@ -33,3 +33,4 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Andreas Scherbaum
 * Andrei Lepikhov
 * James Blacwood-Sewell (Timescale)
+* Álvaro Hernández (OnGres)
