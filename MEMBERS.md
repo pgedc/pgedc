@@ -34,3 +34,4 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Andrei Lepikhov
 * James Blacwood-Sewell (Timescale)
 * Álvaro Hernández (OnGres)
+* Damien Clochard (Dalibo)
