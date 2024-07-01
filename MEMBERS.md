@@ -36,3 +36,4 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Álvaro Hernández (OnGres)
 * Damien Clochard (Dalibo)
 * Braj Saxena
+* Steffen Siering (Xata)
