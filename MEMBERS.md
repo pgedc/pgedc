@@ -37,3 +37,4 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Damien Clochard (Dalibo)
 * Braj Saxena
 * Steffen Siering (Xata)
+* Kevin Zimmerman (PostgresML)
