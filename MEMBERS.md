@@ -38,3 +38,4 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Braj Saxena
 * Steffen Siering (Xata)
 * Kevin Zimmerman (PostgresML)
+* Maxime Schoemans (MobilityDB)
