@@ -40,3 +40,4 @@ If you'd like to join, please send a PR adding yourself to the list below.
 * Kevin Zimmerman (PostgresML)
 * Maxime Schoemans (MobilityDB)
 * Steve Lau
+* Grant Zhou (Highgo)
